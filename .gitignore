@@ -1,0 +1,4 @@
+# Ignore Google credentials
+credentials.json
+secrets/
+.env
